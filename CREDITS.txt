@@ -1,0 +1,14 @@
+Превью нового сайта психолога Анны Коваленко
+Дизайн и разработка — ViachKovDesign
+
+Шрифты (подключены локально, без внешних запросов):
+- Cormorant — Christian Thalmann (Catharsis Fonts), SIL Open Font License 1.1
+- Manrope — Mikhail Sharanda, SIL Open Font License 1.1
+
+Библиотеки:
+- GSAP, ScrollTrigger, SplitText — GreenSock, Standard "no charge" license (https://gsap.com/standard-license)
+- Lenis — darkroom.engineering, MIT License
+- Vite — MIT License (сборка)
+
+Графика (знак-заглушка, круги, нить, дымка) нарисована кодом для этого сайта.
+Фотографии на превью — заглушки.

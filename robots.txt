@@ -1,0 +1,3 @@
+# Прототип редизайна — не индексировать (живой сайт: kovalenko-psychologist.ru)
+User-agent: *
+Disallow: /
