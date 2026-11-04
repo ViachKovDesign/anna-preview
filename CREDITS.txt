@@ -5,10 +5,14 @@
 - Cormorant — Christian Thalmann (Catharsis Fonts), SIL Open Font License 1.1
 - Manrope — Mikhail Sharanda, SIL Open Font License 1.1
 
+Логотип:
+- Знак-нить и монограмма AK нарисованы для Анны Коваленко
+- Имя — Newsreader (Production Type), SIL Open Font License 1.1; подпись — Manrope. Текст в логотипе переведён в кривые
+
 Библиотеки:
 - GSAP, ScrollTrigger, SplitText — GreenSock, Standard "no charge" license (https://gsap.com/standard-license)
 - Lenis — darkroom.engineering, MIT License
 - Vite — MIT License (сборка)
 
-Графика (знак-заглушка, круги, нить, дымка) нарисована кодом для этого сайта.
-Фотографии на превью — заглушки.
+Графика (круги, нить, дымка) нарисована кодом для этого сайта.
+Фотографии и документы — личный архив Анны Коваленко.
